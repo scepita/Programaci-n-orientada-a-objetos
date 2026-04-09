@@ -1,0 +1,9 @@
+Índice
+Ejercicio de composición
+
+1. Idea inicial y boceto del dibujo
+2. Organización de los elementos en el espacio
+3. Uso de posiciones relativas (width y height)
+4. Implementación del programa en Processing
+5. Pruebas con distintos tamaños de pantalla
+6. Versión final del dibujo
