@@ -1,0 +1,5 @@
+Al principio era básico, cada cuadradito tenía un color y listo, todo fijo, nada se movía ni cambiaba
+Después le metimos eso de tener un valor actual y uno objetivo, entonces ya no cambia de golpe, va como cambiando de un color a otro. Ahí ya empieza a parecer más animado.
+Y ahora en este último, además del color también guarda la posición (x e y), entonces los cuadrados no solo cambian de color sino que se pueden mover por la pantalla.
+Lo clave es que no se inventa nada nuevo, se usa la misma lógica para todo. Lo de actual y objetivo sirve tanto para el color como para la posición
+O sea, el cambio grande no está en dibujar distinto, sino en cómo se guardan los datos. El array pasa de ser algo simple a algo más completo, y con eso ya podés hacer más cosas como movimiento y animaciones
